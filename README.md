@@ -8,7 +8,7 @@
 
 The **Smart Waste Management System** is a C/GTK+ desktop application that helps municipal administrators monitor dustbin fill levels across city areas, receive urgency alerts and dispatch collection trucks along the most efficient road routes.
 
-The system models the city's road network as a **weighted graph** and uses **Dijkstra's shortest path algorithm** to determine the optimal truck route from the depot to each collection area, replacing a naive crow-fly distance sort with true road-network awareness.
+The system models the city's road network as a **weighted graph** and uses **Dijkstra's shortest path algorithm** to determine the optimal truck route from the depot to each collection area, replacing a naive crow-fly distance sort with true road-network awarenes.
 
 ---
 
